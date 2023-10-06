@@ -32,7 +32,7 @@
                                 <buttonConfiguration key="configuration" style="filled" title="TIP"/>
                             </button>
                             <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="yqX-zv-7ak">
-                                <rect key="frame" x="146" y="175" width="379" height="30"/>
+                                <rect key="frame" x="98" y="175" width="445" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </slider>
                         </subviews>
