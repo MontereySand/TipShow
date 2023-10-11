@@ -1,2 +1,0 @@
-# TipShow
-Aditya Weston TipShow

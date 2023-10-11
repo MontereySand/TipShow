@@ -1,13 +1,13 @@
 //
-//  TipShowUITests.swift
-//  TipShowUITests
+//  Tests_iOS.swift
+//  Tests iOS
 //
-//  Created by Aditya Maramreddy on 10/5/23.
+//  Created by mark on 6/27/22.
 //
 
 import XCTest
 
-final class TipShowUITests: XCTestCase {
+class Tests_iOS: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

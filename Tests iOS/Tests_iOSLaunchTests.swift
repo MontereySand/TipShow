@@ -1,13 +1,13 @@
 //
-//  TipShowUITestsLaunchTests.swift
-//  TipShowUITests
+//  Tests_iOSLaunchTests.swift
+//  Tests iOS
 //
-//  Created by Aditya Maramreddy on 10/5/23.
+//  Created by mark on 6/27/22.
 //
 
 import XCTest
 
-final class TipShowUITestsLaunchTests: XCTestCase {
+class Tests_iOSLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
